@@ -1,2 +1,2 @@
-This is video game 
+This is video game \n
 VIDOE
